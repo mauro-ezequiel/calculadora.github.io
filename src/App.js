@@ -1,6 +1,6 @@
 import Boton from'./componentes/boton';
 import './App.css';
-import Free from './imagen/Free.jpg';
+import Free from './imagen/react.jpg';
 import Pantalla from './componentes/pantalla';
 import './estilos/pantalla.css'
 import BotonClear from './componentes/botonclear';
@@ -26,7 +26,7 @@ function App() {
     <div className="App">
     <div className="free-contenedor">
       <img
-      className="free"
+      className="react"
       src={Free}
       alt="Logo"/>
     </div>
