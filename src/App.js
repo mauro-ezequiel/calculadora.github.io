@@ -1,9 +1,9 @@
-import Boton from'./componentes/boton';
+import Boton from'./components/boton';
 import './App.css';
 import Free from './imagen/react.jpg';
-import Pantalla from './componentes/pantalla';
-import './estilos/pantalla.css'
-import BotonClear from './componentes/botonclear';
+import Pantalla from './components/pantalla';
+import './style/pantalla.css'
+import BotonClear from './components/botonclear';
 import { useState } from 'react';
 import {evaluate} from 'mathjs';
 

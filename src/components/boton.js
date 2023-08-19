@@ -1,5 +1,5 @@
 import React from "react";
-import '../estilos/boton.css';
+import '../style/boton.css';
 function Boton (props){
     const esOperador= valor =>{
         return isNaN (valor) && (valor!==".") && (valor!=="=");
