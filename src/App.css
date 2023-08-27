@@ -40,3 +40,13 @@ body {
   margin: 4px;
   display: flex;
 }
+.logo {
+  width: 20%;
+}
+
+@media screen and (max-width: 780px) {
+  .logo{
+    width: 40%;
+  }
+  
+}
